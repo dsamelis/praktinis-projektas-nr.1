@@ -129,6 +129,7 @@ hr {
      display: flex;
      justify-content: center;
      margin: 30px 0px;
+     color: #aaa;
  }
 
 
@@ -157,3 +158,37 @@ hr {
  .a-blog p:nth-child(2) {
      background-color: lightblue;
  }
+
+ /* ABOUT */
+
+
+
+ .about-header {
+     display: flex;
+     justify-content: flex-end;
+ }
+
+ .img-about {
+     padding-top: 20px;
+ }
+
+ .about-lorem {
+     color: #aaa;
+     /* text-align: center; */
+ }
+
+.wrap-about {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.about-ul {
+    padding-left: 50px;
+    color: #aaa;
+}
+
+
+.wrap-aboutt {
+    max-width: 800px;
+    margin: 0 auto;
+}
