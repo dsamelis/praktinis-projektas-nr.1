@@ -130,3 +130,30 @@ hr {
      justify-content: center;
      margin: 30px 0px;
  }
+
+
+ /* BLOG */
+
+
+ .blog-header {
+     display: flex;
+     justify-content: flex-end;
+ }
+
+ .blog-main {
+     display: flex;
+     justify-content: center;
+     /* justify-content: space-around; */
+ }
+
+ .a-blog {
+     margin-right: 150px;
+ }
+
+ .b-blog {
+     color: #aaa;
+ }
+
+ .a-blog p:nth-child(2) {
+     background-color: lightblue;
+ }
